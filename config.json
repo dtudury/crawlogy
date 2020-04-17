@@ -1,0 +1,46 @@
+{
+  "hosts": [
+    "secondmeasure.com"
+  ],
+  "urls": [
+    "https://secondmeasure.com/"
+  ],
+  "crawl": true,
+  "styleProperties": [
+    "color",
+    "font-family",
+    "font-size",
+    "font-style",
+    "font-variant",
+    "font-weight",
+    "letter-spacing",
+    "text-shadow",
+    "text-transform",
+    "font-stretch",
+    "font-size-adjust",
+    "font-kerning"
+  ],
+  "__comment__ (maybe) all text style properties": [
+    "color",
+    "font-family",
+    "font-size",
+    "font-style",
+    "font-variant",
+    "font-weight",
+    "font",
+    "letter-spacing",
+    "line-height",
+    "text-align",
+    "text-decoration",
+    "text-indent",
+    "text-overflow",
+    "text-shadow",
+    "text-transform",
+    "white-space",
+    "word-break",
+    "word-spacing",
+    "font-stretch",
+    "font-size-adjust",
+    "font-kerning"
+  ]
+}
